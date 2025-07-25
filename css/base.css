@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Michroma&display=swap');
+:root{
+    --color-primary: #5C4033;
+    --color-secundary: #F5F5DC;
+    --color-accent: #00CFFF;
+    --color-light: #FAFAFA;
+    --color-dark: #1e1e1f;
+}
